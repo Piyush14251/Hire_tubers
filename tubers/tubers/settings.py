@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-gz3g7u_tc92v*3kqr_+o1a#hn_r-ih3lx+rhkx@$5215ao7x**
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1:8000','https://hiretubers2u.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1:8000','hiretubers2u.herokuapp.com']
 LOGIN_REDIRECT_URL = 'dashbord'
 
 # Application definition
